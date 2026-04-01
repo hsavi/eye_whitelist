@@ -1,1 +1,12 @@
-test
+{
+  "players": [
+    {
+      "uuid": "63aeaffd-5b43-417f-90b3-f318020d5797",
+      "name": "test"
+    },
+    {
+      "uuid": "d24efa35-83b2-424b-89c0-3ec39d431f77",
+      "name": "test"
+    }
+  ]
+}
