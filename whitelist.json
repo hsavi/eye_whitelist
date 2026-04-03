@@ -1,6 +1,10 @@
 {
   "players": [
     {
+      "uuid": "d24efa35-83b2-424b-89c0-3ec39d431f77",
+      "name": "FreeWillWarrior"
+    },
+    {
       "uuid": "520147d8-7834-4c1c-9139-38638d07cc89",
       "name": "FreeWillWarrior"
     },
