@@ -1,6 +1,10 @@
 {
   "players": [
     {
+      "uuid": "d24efa35-83b2-424b-89c0-3ec39d431f77",
+      "name": "demonstrativel2"
+    },
+    {
       "uuid": "2a94293e-839b-4749-a50b-4c8445ad17a6",
       "name": "MEZUW"
     },
